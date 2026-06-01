@@ -45,7 +45,8 @@ Analyzed customer churn patterns for a telecom company and built a machine learn
 
 
 ### Tableau
-<img width="667" height="874" alt="Screenshot 2026-06-01 154102" src="https://github.com/user-attachments/assets/b072f62f-b472-4e08-987b-a29527c1a917" />
+<img width="638" height="851" alt="image" src="https://github.com/user-attachments/assets/62ea0859-0916-4e31-a327-c2541c914438" />
+
 
 
 ## 🔍 Analysis Process
