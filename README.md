@@ -40,7 +40,9 @@ Analyzed customer churn patterns for a telecom company and built a machine learn
 ## 📊 Dashboard Preview
 
 ### Power BI
-![Power BI Dashboard](powerbi_dashboard.png)
+<img width="1169" height="656" alt="image" src="https://github.com/user-attachments/assets/4f9cd543-4b77-480e-8b89-0fda8ab2956b" />
+
+
 
 ### Tableau
 ![Tableau Dashboard](tableau_dashboard.png)
