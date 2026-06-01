@@ -1,5 +1,4 @@
 # Churn-Prediction-Python-PowerBI-Tableau
-
 # Customer Churn Prediction
 
 ## 📊 Project Overview
@@ -31,4 +30,40 @@ Analyzed customer churn patterns for a telecom company and built a machine learn
 | `Churn_Analysis_Complete.py` | Full Python code (cleaning, EDA, model) |
 | `Telco_Churn_Clean.csv` | Cleaned dataset |
 | `Customer_Churn_Dashboard.pbix` | Power BI dashboard |
-| `Customer_Churn_Dashboard.twbx` |
+| `Customer_Churn_Dashboard.twbx` | Tableau dashboard |
+| `01_churn_pie.png` | Churn distribution chart |
+| `02_churn_by_contract.png` | Churn by contract type |
+| `03_tenure_by_churn.png` | Tenure analysis |
+| `04_charges_by_churn.png` | Monthly charges analysis |
+| `05_churn_by_payment.png` | Payment method analysis |
+
+## 📊 Dashboard Preview
+
+### Power BI
+![Power BI Dashboard](powerbi_dashboard.png)
+
+### Tableau
+![Tableau Dashboard](tableau_dashboard.png)
+
+## 🔍 Analysis Process
+1. **Data Cleaning:** Fixed missing values, converted data types
+2. **EDA:** Created 5 visualizations to understand patterns
+3. **Feature Engineering:** Created binary target variable
+4. **Model Building:** Random Forest with 77% accuracy
+5. **Dashboards:** Built interactive dashboards in Power BI & Tableau
+
+## 📈 Feature Importance
+| Feature | Importance |
+|---------|------------|
+| Monthly Charges | 38.6% |
+| Total Charges | 35.3% |
+| Tenure | 23.3% |
+| Senior Citizen | 2.8% |
+
+## 👩‍💻 Author
+**Maha Pentakota**
+- LinkedIn: [linkedin.com/in/mahapentakota](https://linkedin.com/in/mahapentakota)
+- GitHub: [github.com/Maha112024](https://github.com/Maha112024)
+
+## 📜 License
+This project is open source and available for learning purposes.
